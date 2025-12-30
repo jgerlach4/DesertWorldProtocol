@@ -3,7 +3,7 @@ You and your team have landed on an unfamiliar planet. The landing was quite bum
 
 Use WASD to move\
 Use Spacebar to Jump\
-Use 'E' to Interact with the world\
+Use 'E' to Interact with the world
 
 Search for the different colored weapons that have been scattered around the world and return them to their owners.
 <img width="1614" height="718" alt="Screenshot 2025-12-30 123843" src="https://github.com/user-attachments/assets/e87e4066-61de-4bb2-9255-0c7c24e96137" />
